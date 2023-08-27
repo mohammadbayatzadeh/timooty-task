@@ -1,5 +1,5 @@
+//templates
 import HomePage from "@/components/templates/HomePage";
-import React from "react";
 
 const index = (props: any) => {
   return (
